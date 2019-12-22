@@ -1,2 +1,4 @@
 # hello-world
 hello world - take 1
+Hi, I'm Tammy. I'm looking to get back into something to do with web development although I'm not quite sure what at the moment. A couple of years ago I quit a job that I had been at for over 20 years. I was an office manger / "everything else that needed to get done" and re-designing and maintaining the company website was included. When I first took that job I had to do all the HTML codes manually within WordPerfect and I learned a lot that way especially when something didn't work. However, I really never wanted to learn about CSS or JavaScript. And now here I am 24 years later and I have an interest now. I never even really thought of myself as a "coder" but I guess I was. So I hav a slight advantage over a newbie in the fact that I understand the HTML and have a slight grasp of CSS and JS.
+Now I just need to take this to another level and see what happens.
